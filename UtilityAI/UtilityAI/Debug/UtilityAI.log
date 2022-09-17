@@ -1,0 +1,9 @@
+﻿  BuildHouse.cpp
+  Hunt.cpp
+  Timber.cpp
+  UtilityAI.cpp
+  Village.cpp
+  Génération de code en cours...
+UtilityAI.obj : error LNK2019: symbole externe non résolu "public: void __thiscall Village::AddHuman(void)" (?AddHuman@Village@@QAEXXZ) référencé dans la fonction "public: __thiscall Human::Human(class Village &)" (??0Human@@QAE@AAVVillage@@@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: symbole externe non résolu _main référencé dans la fonction "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\vanda\Documents\ESGI\Année 5\IAJV\UtilityAI\Debug\UtilityAI.exe : fatal error LNK1120: 2 externes non résolus
